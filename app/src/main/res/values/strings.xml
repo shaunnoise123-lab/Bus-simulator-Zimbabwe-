@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bus Simulator Zimbabwe</string>
+    <string name="welcome">Welcome to Bus Simulator Zimbabwe</string>
+    <string name="game_title">Bus Simulator Zimbabwe</string>
+    
+    <!-- Game States -->
+    <string name="state_menu">Main Menu</string>
+    <string name="state_loading">Loading Game</string>
+    <string name="state_playing">Playing</string>
+    <string name="state_paused">Paused</string>
+    <string name="state_game_over">Game Over</string>
+    
+    <!-- HUD Labels -->
+    <string name="label_speed">SPEED</string>
+    <string name="label_rpm">RPM</string>
+    <string name="label_fuel">FUEL</string>
+    <string name="label_money">MONEY</string>
+    <string name="label_passengers">PASSENGERS</string>
+    <string name="label_time">TIME</string>
+    <string name="label_health">HEALTH</string>
+    <string name="label_reputation">REPUTATION</string>
+    
+    <!-- Buses -->
+    <string name="bus_daf">DAF F218 (Old)</string>
+    <string name="bus_zhong_tong">Zhong Tong</string>
+    <string name="bus_marcopolo">Marcopolo G8</string>
+    <string name="bus_irizar">Irizar i8</string>
+    <string name="bus_man">MAN Lion's Star</string>
+    <string name="bus_benz">Mercedes-Benz Tourismo</string>
+    
+    <!-- Cities -->
+    <string name="city_harare">Harare</string>
+    <string name="city_bulawayo">Bulawayo</string>
+    <string name="city_mutare">Mutare</string>
+    <string name="city_masvingo">Masvingo</string>
+    <string name="city_gweru">Gweru</string>
+    <string name="city_victoria_falls">Victoria Falls</string>
+    
+    <!-- Messages -->
+    <string name="msg_engine_started">Engine Started</string>
+    <string name="msg_engine_stopped">Engine Stopped</string>
+    <string name="msg_speeding">Speeding! Ticket Issued</string>
+    <string name="msg_red_light">Red Light! Fine Issued</string>
+    <string name="msg_roadblock">Roadblock Ahead</string>
+    <string name="msg_accident">Accident Reported</string>
+    <string name="msg_fuel_low">Fuel Low!</string>
+    <string name="msg_engine_overheat">Engine Overheating!</string>
+    <string name="msg_tire_puncture">Tire Punctured!</string>
+</resources>
